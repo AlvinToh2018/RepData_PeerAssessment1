@@ -1,3 +1,6 @@
+# Code is in the PA1_template.Rmd file
+# HTML output is on the PA1_template.html file
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
